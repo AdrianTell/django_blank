@@ -1,0 +1,3 @@
+Visit the following link:
+
+{{ confirm_link }}

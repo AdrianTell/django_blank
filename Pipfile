@@ -4,12 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "==2.1.8"
+django = ">=2.1.11"
 djangorestframework = "==3.9.4"
 djangorestframework-simplejwt = "==4.3.0"
 django-cors-headers = "==3.0.2"
 drf-yasg = "==1.16.0"
 packaging = "==19.0"
+gunicorn = ">=19.5.0"
 
 [dev-packages]
 
